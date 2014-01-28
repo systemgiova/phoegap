@@ -45,6 +45,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #DF3A01;
 }
 
 a {
@@ -307,7 +308,8 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #ffffff;
+  background: url(../img_bg1.jpg);
+  /*background-color: #ffffff;*/
 }
 
 input,
